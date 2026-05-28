@@ -1,7 +1,7 @@
 export const projects = [
   {
     name: 'NAgenda',
-    logo: '/src/assets/icons/nagenda.png', 
+    logo: '/nagenda.png', 
     status: 'Desenvolvimento',
     description: 'A NAgenda é a solução inteligente para agendamentos online. Organize horários, clientes e atendimentos de forma simples, rápida e profissional. Ideal para barbearias, salões, clínicas e negócios que querem mais organização e praticidade.',
     stack: ['TypeScript', 'NodeJS', 'PostgreSQL'],
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     name: 'NMenu',
-    logo: '/src/assets/icons/nmenu.png',
+    logo: '/nmenu.png',
     status: 'Em breve',
     description: 'Transforme seu delivery com o NMenu. Cardápio digital moderno, pedidos online, organização e praticidade em um só lugar. Mais agilidade para seu negócio e uma experiência melhor para seus clientes.',
     stack: ['TypeScript', 'Fastify', 'WebSocket'],
