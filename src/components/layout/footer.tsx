@@ -36,7 +36,7 @@ const Footer = () => {
             <a href="#home" className="flex items-center gap-2 group w-fit">
               <span className="w-1.5 h-1.5 rounded-full bg-blue-500" />
               <img
-                src="src/assets/images/logo.png"
+                src="/ncode_full_logo_2.png"
                 alt="NCode"
                 className="h-16 w-auto object-contain opacity-80 group-hover:opacity-100 transition-opacity"
               />
